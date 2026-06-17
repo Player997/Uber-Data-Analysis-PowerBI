@@ -80,13 +80,13 @@ uber-data-analysis-powerbi/
 │   └── uber.csv           # Raw dataset
 │
 ├── Images/
-│   ├── home.png
-│   ├── overview.png
-│   ├── vehicle.png
-│   ├── revenue.png
-│   ├── rider.png
-│   ├── location.png
-│   └── er_model.png
+│   ├── Home.png
+│   ├── Overview.png
+│   ├── Vehicle.png
+│   ├── Revenue.png
+│   ├── Rider.png
+│   ├── Location.png
+│   └── data_model.png
 │
 └── README.md
 ```
