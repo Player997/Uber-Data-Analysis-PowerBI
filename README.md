@@ -9,13 +9,13 @@ A comprehensive Power BI dashboard analyzing Uber's ride operations across booki
 ## 📊 Dashboard Preview
 
 ### 🏠 Home
-![Home](Images/home.png)
+![Home](Images/Home.png)
 > Landing page with navigation to all report sections.
 
 ---
 
 ### 📋 Overview
-![Overview](Images/overview.png)
+![Overview](Images/Overview.png)
 > High-level KPIs including completed bookings, lost bookings, revenue, total distance, and average distance. Features a time-slot heatmap and vehicle-wise distance breakdown.
 
 **Key Metrics Visible:**
@@ -28,25 +28,25 @@ A comprehensive Power BI dashboard analyzing Uber's ride operations across booki
 ---
 
 ### 🚗 Vehicle
-![Vehicle](Images/vehicle.png)
+![Vehicle](Images/Vehicle.png)
 > Performance comparison across vehicle types (Auto, Bike, Go Mini, Go Sedan, Premier, Uber XL) with completed booking trends by month and contribution percentages.
 
 ---
 
 ### 💵 Revenue
-![Revenue](Images/revenue.png)
+![Revenue](Images/Revenue.png)
 > Monthly and quarterly revenue trends, revenue split by vehicle type, payment method breakdown (UPI, Cash, Uber Wallet, Credit Card, Debit Card), and top customers by revenue.
 
 ---
 
 ### 🧑‍🤝‍🧑 Rider
-![Rider](Images/rider.png)
+![Rider](Images/Rider.png)
 > Customer segmentation into First Time, Return, and Regular riders. Includes quarterly customer trends, payment method preferences, a detailed customer table, and cancellation reason analysis.
 
 ---
 
 ### 📍 Location
-![Location](Images/location.png)
+![Location](Images/Location.png)
 > Top pickup and drop-off locations with ride counts and customer ratings (Average Customer Rating: 4.40 | Average Driver Rating: 4.23).
 
 ---
